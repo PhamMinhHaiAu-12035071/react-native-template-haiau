@@ -7,6 +7,7 @@ This is project create template boilerplate for react-native
 * [Document](#document)
   - [Path alias](#path-alias)
   - [Commit lint](#commit-lint)
+  - [Add custom fonts](#add-custom-fonts)
 * [Inspired by](#inspired-by)
 * [Contributing](#contributing)
 * [Author](#author)
@@ -27,6 +28,8 @@ This is project create template boilerplate for react-native
  - [Husky](https://www.npmjs.com/package/husky)
  - [Lint-staged](https://www.npmjs.com/package/lint-staged)
  - [Config variables for React Native apps](https://github.com/luggit/react-native-config)
+ - [React native vector icons](https://github.com/oblador/react-native-vector-icons)
+ - Support custom fonts
 ## Folder Structure Conventions
     .
     ├── __tests__               # Folder test
@@ -34,6 +37,7 @@ This is project create template boilerplate for react-native
     ├── android                 # Folder android
     ├── src                     # Source files
     |   ├── assets              # Place contain images, fonts ...
+    |   |   ├── fonts           # Place contain custom fonts
     |   ├── components          # Place contain common components
     |   ├── routes              # Place contain react navigation
     |   ├── screens             # Place contain screens
@@ -100,6 +104,12 @@ module.exports = {
   },
 };
 ```
+### Add custom fonts
+- Step 1: Add the font you want into the directory `./src/assets/fonts`
+- Step 2: Run command linking
+  ```
+  npx react-native link
+  ```
 
 ## Inspired by
 [Create template for react-native](https://github.com/Esemesek/react-native-new-template)
