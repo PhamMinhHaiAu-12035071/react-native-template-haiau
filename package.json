@@ -1,6 +1,6 @@
 {
   "name": "react-native-template-haiau",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "This is my template react native",
   "author": "pham minh hai au <phamau1994x@gmail.com>",
   "license": "MIT",
@@ -11,5 +11,12 @@
   "bugs": {
     "url": "https://github.com/PhamMinhHaiAu-12035071/react-native-template-haiau/issues"
   },
-  "homepage": "https://github.com/PhamMinhHaiAu-12035071/react-native-template-haiau#readme"
+  "homepage": "https://github.com/PhamMinhHaiAu-12035071/react-native-template-haiau#readme",
+  "keywords": [
+    "react-native-community",
+    "react-native",
+    "template",
+    "typescript"
+  ],
+  "dependencies": {}
 }
