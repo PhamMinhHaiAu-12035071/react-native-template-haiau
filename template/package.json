@@ -1,7 +1,7 @@
 {
-  "name": "react-native-template-haiau",
-  "version": "0.0.7",
-  "private": false,
+  "name": "haiau",
+  "version": "0.0.8",
+  "private": true,
   "scripts": {
     "android": "react-native add-path-alias && react-native run-android",
     "ios": "react-native add-path-alias && react-native run-ios",

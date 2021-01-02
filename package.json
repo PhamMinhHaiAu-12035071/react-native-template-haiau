@@ -1,9 +1,13 @@
 {
   "name": "react-native-template-haiau",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "This is my template react native",
   "author": "pham minh hai au <phamau1994x@gmail.com>",
   "license": "MIT",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PhamMinhHaiAu-12035071/react-native-template-haiau.git"
