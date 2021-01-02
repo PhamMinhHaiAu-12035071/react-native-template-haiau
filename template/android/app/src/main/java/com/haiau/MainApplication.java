@@ -1,5 +1,8 @@
 package com.haiau;
-
+/*--------------------------- CONFIG REANIMATED 2 ---------------------------*/
+import com.facebook.react.bridge.JSIModulePackage;
+import com.swmansion.reanimated.ReanimatedJSIModulePackage;
+/*--------------------------- CONFIG REANIMATED 2 ---------------------------*/
 import android.app.Application;
 import android.content.Context;
 import com.facebook.react.PackageList;
@@ -33,6 +36,13 @@ public class MainApplication extends Application implements ReactApplication {
         protected String getJSMainModuleName() {
           return "index";
         }
+
+        /*--------------------------- CONFIG REANIMATED 2 ---------------------------*/
+        @Override
+        protected JSIModulePackage getJSIModulePackage() {
+          return new ReanimatedJSIModulePackage();
+        }
+        /*--------------------------- CONFIG REANIMATED 2 ---------------------------*/
       };
 
   @Override
