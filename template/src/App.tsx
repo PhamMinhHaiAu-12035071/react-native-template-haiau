@@ -1,12 +1,12 @@
 import React from 'react';
-import {SafeAreaView} from 'react-native';
-import Button from 'components/Button';
+import {RecoilRoot} from 'recoil';
+import ThemeLayout from './ThemeLayout';
 
 const App = () => {
   return (
-    <SafeAreaView>
-      <Button />
-    </SafeAreaView>
+    <RecoilRoot>
+      <ThemeLayout />
+    </RecoilRoot>
   );
 };
 export default App;

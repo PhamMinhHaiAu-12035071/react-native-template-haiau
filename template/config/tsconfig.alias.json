@@ -1,8 +1,12 @@
 {
   "compilerOptions": {
     "paths": {
-      "*": ["src/*"],
-      "components": ["src/components/*"]
+      "*": ["./src/*"],
+      "components": ["./src/components/*"],
+      "routes": ["./src/routes/*"],
+      "screens": ["./src/screens/*"],
+      "stores": ["./src/stores/*"],
+      "styles": ["./src/styles/*"]
     }
   }
 }

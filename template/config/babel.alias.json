@@ -1,7 +1,7 @@
 {
-  "root": ["./src"],
-  "extensions": [".ios.js", ".android.js", ".js", ".ts", ".tsx", ".json"],
-  "alias": {
-    "components": ["src/components"]
-  }
+  "components": ["./src/components"],
+  "routes": ["./src/routes"],
+  "screens": ["./src/screens"],
+  "stores": ["./src/stores"],
+  "styles": ["./src/styles"]
 }

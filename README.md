@@ -17,6 +17,10 @@ This is project create template boilerplate for react-native
  - [Reanimated v2](https://docs.swmansion.com/react-native-reanimated/docs)  
  - [TypeScript](https://www.typescriptlang.org/)
  - [Support path alias](https://www.npmjs.com/package/babel-plugin-module-resolver)  
+ - [React navigation](https://reactnavigation.org/docs/getting-started)
+ - [React navigation shared element](https://github.com/IjzerenHein/react-navigation-shared-element)  
+ - [Styled components](https://styled-components.com/)  
+ - [Recoil](https://recoiljs.org/)
  - [Eslint](https://eslint.org/)
  - [Prettier](https://prettier.io/)
  - [Commit lint](https://github.com/conventional-changelog/commitlint)
@@ -28,7 +32,12 @@ This is project create template boilerplate for react-native
     ├── ios                     # Folder ios
     ├── android                 # Folder android
     ├── src                     # Source files
+    |   ├── assets              # Place contain images, fonts ...
     |   ├── components          # Place contain common components
+    |   ├── routes              # Place contain react navigation
+    |   ├── screens             # Place contain screens
+    |   ├── stores              # Place contain global stores recoil
+    |   ├── styles              # Place contain styled theme global
     ├── LICENSE
     └── README.md
 
