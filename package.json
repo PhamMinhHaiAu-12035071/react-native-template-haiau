@@ -1,0 +1,15 @@
+{
+  "name": "react-native-template-haiau",
+  "version": "0.0.1",
+  "description": "This is my template react native",
+  "author": "pham minh hai au <phamau1994x@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhamMinhHaiAu-12035071/react-native-template-haiau.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PhamMinhHaiAu-12035071/react-native-template-haiau/issues"
+  },
+  "homepage": "https://github.com/PhamMinhHaiAu-12035071/react-native-template-haiau#readme"
+}
