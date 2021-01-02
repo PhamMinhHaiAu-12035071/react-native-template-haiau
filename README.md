@@ -26,6 +26,7 @@ This is project create template boilerplate for react-native
  - [Commit lint](https://github.com/conventional-changelog/commitlint)
  - [Husky](https://www.npmjs.com/package/husky)
  - [Lint-staged](https://www.npmjs.com/package/lint-staged)
+ - [Config variables for React Native apps](https://github.com/luggit/react-native-config)
 ## Folder Structure Conventions
     .
     ├── __tests__               # Folder test

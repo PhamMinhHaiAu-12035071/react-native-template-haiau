@@ -1,4 +1,5 @@
 {
+  "assets": ["./src/assets"],
   "components": ["./src/components"],
   "routes": ["./src/routes"],
   "screens": ["./src/screens"],

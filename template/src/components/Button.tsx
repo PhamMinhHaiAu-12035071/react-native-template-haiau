@@ -1,11 +1,17 @@
 import React from 'react';
-import {TouchableOpacity, Text} from 'react-native';
-
+import {TouchableOpacity, Text, StyleSheet} from 'react-native';
+import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 const Button = () => {
   return (
     <TouchableOpacity>
-      <Text>This is button</Text>
+      <MaterialIcons name={'10k'} size={30} color={'black'} />
+      <Text style={styles.text}>This is button</Text>
     </TouchableOpacity>
   );
 };
+const styles = StyleSheet.create({
+  text: {
+    fontFamily: 'Flappy Bird',
+  },
+});
 export default Button;
