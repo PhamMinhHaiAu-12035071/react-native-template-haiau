@@ -63,3 +63,6 @@ buck-out/
 /ios/Pods/
 
 .idea/
+
+template/node_modules/
+template/.idea/
