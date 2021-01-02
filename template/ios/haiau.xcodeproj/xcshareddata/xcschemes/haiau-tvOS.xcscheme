@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "haiau-tvOS.app"
-               BlueprintName = "haiau-tvOS"
-               ReferencedContainer = "container:haiau.xcodeproj">
+               BuildableName = "HaiAu-tvOS.app"
+               BlueprintName = "HaiAu-tvOS"
+               ReferencedContainer = "container:HaiAu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "haiau-tvOSTests.xctest"
-               BlueprintName = "haiau-tvOSTests"
-               ReferencedContainer = "container:haiau.xcodeproj">
+               BuildableName = "HaiAu-tvOSTests.xctest"
+               BlueprintName = "HaiAu-tvOSTests"
+               ReferencedContainer = "container:HaiAu.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "haiau-tvOS.app"
-            BlueprintName = "haiau-tvOS"
-            ReferencedContainer = "container:haiau.xcodeproj">
+            BuildableName = "HaiAu-tvOS.app"
+            BlueprintName = "HaiAu-tvOS"
+            ReferencedContainer = "container:HaiAu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "haiau-tvOS.app"
-            BlueprintName = "haiau-tvOS"
-            ReferencedContainer = "container:haiau.xcodeproj">
+            BuildableName = "HaiAu-tvOS.app"
+            BlueprintName = "HaiAu-tvOS"
+            ReferencedContainer = "container:HaiAu.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

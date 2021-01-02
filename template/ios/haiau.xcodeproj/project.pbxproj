@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* haiauTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* haiauTests.m */; };
-		094FB1C4792E3C5CFF828E93 /* libPods-haiau-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5271B0D4004E201536BAC393 /* libPods-haiau-tvOS.a */; };
-		09C67598BDE0CDC8D4CBB32B /* libPods-haiau-haiauTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F49BD601CEF8A41C47BC618 /* libPods-haiau-haiauTests.a */; };
+		00E356F31AD99517003FC87E /* HaiAuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* HaiAuTests.m */; };
+		094FB1C4792E3C5CFF828E93 /* libPods-HaiAu-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5271B0D4004E201536BAC393 /* libPods-HaiAu-tvOS.a */; };
+		09C67598BDE0CDC8D4CBB32B /* libPods-HaiAu-HaiAuTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F49BD601CEF8A41C47BC618 /* libPods-HaiAu-HaiAuTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* haiauTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* haiauTests.m */; };
-		67ACB38FDDA148EB88D54274 /* libPods-haiau-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F24CD9D7DDE027209F916D6 /* libPods-haiau-tvOSTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* HaiAuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* HaiAuTests.m */; };
+		67ACB38FDDA148EB88D54274 /* libPods-HaiAu-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F24CD9D7DDE027209F916D6 /* libPods-HaiAu-tvOSTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		CBE8D7C0C609F99DCDDE7A22 /* libPods-haiau.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 438C1F8716D235B6C073D5CB /* libPods-haiau.a */; };
+		CBE8D7C0C609F99DCDDE7A22 /* libPods-HaiAu.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 438C1F8716D235B6C073D5CB /* libPods-HaiAu.a */; };
 		489E53AA06C64602BB1C509C /* Flappy Bird.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A79DD20EBEDF4202BAAA0768 /* Flappy Bird.ttf */; };
 /* End PBXBuildFile section */
 
@@ -29,45 +29,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = haiau;
+			remoteInfo = HaiAu;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "haiau-tvOS";
+			remoteInfo = "HaiAu-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* haiauTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = haiauTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* HaiAuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HaiAuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* haiauTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = haiauTests.m; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* haiau.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = haiau.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = haiau/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = haiau/AppDelegate.m; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = haiau/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = haiau/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = haiau/main.m; sourceTree = "<group>"; };
-		23EAED921185EDF5799B6BC0 /* Pods-haiau-haiauTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau-haiauTests.release.xcconfig"; path = "Target Support Files/Pods-haiau-haiauTests/Pods-haiau-haiauTests.release.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* haiau-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "haiau-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* haiau-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "haiau-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3F24CD9D7DDE027209F916D6 /* libPods-haiau-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-haiau-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		438C1F8716D235B6C073D5CB /* libPods-haiau.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-haiau.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4F49BD601CEF8A41C47BC618 /* libPods-haiau-haiauTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-haiau-haiauTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5271B0D4004E201536BAC393 /* libPods-haiau-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-haiau-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = haiau/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9501821916B4172BDE55C241 /* Pods-haiau-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-haiau-tvOSTests/Pods-haiau-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		BF130FCD8D0C8DE39E26B27E /* Pods-haiau.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau.debug.xcconfig"; path = "Target Support Files/Pods-haiau/Pods-haiau.debug.xcconfig"; sourceTree = "<group>"; };
-		D2680D9780792273D2EE88B3 /* Pods-haiau-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau-tvOS.release.xcconfig"; path = "Target Support Files/Pods-haiau-tvOS/Pods-haiau-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		DA56EAF2584F211D39E4AB74 /* Pods-haiau.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau.release.xcconfig"; path = "Target Support Files/Pods-haiau/Pods-haiau.release.xcconfig"; sourceTree = "<group>"; };
-		DD133CD45C037C7D0A19DFC3 /* Pods-haiau-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-haiau-tvOSTests/Pods-haiau-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		E14D7890502E607D9756E242 /* Pods-haiau-haiauTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau-haiauTests.debug.xcconfig"; path = "Target Support Files/Pods-haiau-haiauTests/Pods-haiau-haiauTests.debug.xcconfig"; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* HaiAuTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HaiAuTests.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* HaiAu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HaiAu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = HaiAu/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = HaiAu/AppDelegate.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = HaiAu/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = HaiAu/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = HaiAu/main.m; sourceTree = "<group>"; };
+		23EAED921185EDF5799B6BC0 /* Pods-HaiAu-HaiAuTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu-HaiAuTests.release.xcconfig"; path = "Target Support Files/Pods-HaiAu-HaiAuTests/Pods-HaiAu-HaiAuTests.release.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* HaiAu-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HaiAu-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* HaiAu-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HaiAu-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F24CD9D7DDE027209F916D6 /* libPods-HaiAu-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HaiAu-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		438C1F8716D235B6C073D5CB /* libPods-HaiAu.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HaiAu.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F49BD601CEF8A41C47BC618 /* libPods-HaiAu-HaiAuTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HaiAu-HaiAuTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5271B0D4004E201536BAC393 /* libPods-HaiAu-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-HaiAu-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = HaiAu/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9501821916B4172BDE55C241 /* Pods-HaiAu-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-HaiAu-tvOSTests/Pods-HaiAu-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		BF130FCD8D0C8DE39E26B27E /* Pods-HaiAu.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu.debug.xcconfig"; path = "Target Support Files/Pods-HaiAu/Pods-HaiAu.debug.xcconfig"; sourceTree = "<group>"; };
+		D2680D9780792273D2EE88B3 /* Pods-HaiAu-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu-tvOS.release.xcconfig"; path = "Target Support Files/Pods-HaiAu-tvOS/Pods-HaiAu-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		DA56EAF2584F211D39E4AB74 /* Pods-HaiAu.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu.release.xcconfig"; path = "Target Support Files/Pods-HaiAu/Pods-HaiAu.release.xcconfig"; sourceTree = "<group>"; };
+		DD133CD45C037C7D0A19DFC3 /* Pods-HaiAu-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-HaiAu-tvOSTests/Pods-HaiAu-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		E14D7890502E607D9756E242 /* Pods-HaiAu-HaiAuTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu-HaiAuTests.debug.xcconfig"; path = "Target Support Files/Pods-HaiAu-HaiAuTests/Pods-HaiAu-HaiAuTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		FA8225D14E3BE6E7FBA6057D /* Pods-haiau-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-haiau-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-haiau-tvOS/Pods-haiau-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		FA8225D14E3BE6E7FBA6057D /* Pods-HaiAu-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HaiAu-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-HaiAu-tvOS/Pods-HaiAu-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		A79DD20EBEDF4202BAAA0768 /* Flappy Bird.ttf */ = {isa = PBXFileReference; name = "Flappy Bird.ttf"; path = "../src/assets/fonts/Flappy Bird.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
@@ -76,7 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				09C67598BDE0CDC8D4CBB32B /* libPods-haiau-haiauTests.a in Frameworks */,
+				09C67598BDE0CDC8D4CBB32B /* libPods-HaiAu-HaiAuTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,7 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CBE8D7C0C609F99DCDDE7A22 /* libPods-haiau.a in Frameworks */,
+				CBE8D7C0C609F99DCDDE7A22 /* libPods-HaiAu.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -92,7 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				094FB1C4792E3C5CFF828E93 /* libPods-haiau-tvOS.a in Frameworks */,
+				094FB1C4792E3C5CFF828E93 /* libPods-HaiAu-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,20 +100,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				67ACB38FDDA148EB88D54274 /* libPods-haiau-tvOSTests.a in Frameworks */,
+				67ACB38FDDA148EB88D54274 /* libPods-HaiAu-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* haiauTests */ = {
+		00E356EF1AD99517003FC87E /* HaiAuTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* haiauTests.m */,
+				00E356F21AD99517003FC87E /* HaiAuTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = haiauTests;
+			path = HaiAuTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -124,7 +124,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* haiau */ = {
+		13B07FAE1A68108700A75B9A /* HaiAu */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -135,7 +135,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = haiau;
+			name = HaiAu;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -143,10 +143,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				438C1F8716D235B6C073D5CB /* libPods-haiau.a */,
-				4F49BD601CEF8A41C47BC618 /* libPods-haiau-haiauTests.a */,
-				5271B0D4004E201536BAC393 /* libPods-haiau-tvOS.a */,
-				3F24CD9D7DDE027209F916D6 /* libPods-haiau-tvOSTests.a */,
+				438C1F8716D235B6C073D5CB /* libPods-HaiAu.a */,
+				4F49BD601CEF8A41C47BC618 /* libPods-HaiAu-HaiAuTests.a */,
+				5271B0D4004E201536BAC393 /* libPods-HaiAu-tvOS.a */,
+				3F24CD9D7DDE027209F916D6 /* libPods-HaiAu-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -161,9 +161,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* haiau */,
+				13B07FAE1A68108700A75B9A /* HaiAu */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* haiauTests */,
+				00E356EF1AD99517003FC87E /* HaiAuTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				9E59C012D8F32D8BD4D92A69 /* Pods */,
@@ -177,10 +177,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* haiau.app */,
-				00E356EE1AD99517003FC87E /* haiauTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* haiau-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* haiau-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* HaiAu.app */,
+				00E356EE1AD99517003FC87E /* HaiAuTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* HaiAu-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* HaiAu-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -188,14 +188,14 @@
 		9E59C012D8F32D8BD4D92A69 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				BF130FCD8D0C8DE39E26B27E /* Pods-haiau.debug.xcconfig */,
-				DA56EAF2584F211D39E4AB74 /* Pods-haiau.release.xcconfig */,
-				E14D7890502E607D9756E242 /* Pods-haiau-haiauTests.debug.xcconfig */,
-				23EAED921185EDF5799B6BC0 /* Pods-haiau-haiauTests.release.xcconfig */,
-				FA8225D14E3BE6E7FBA6057D /* Pods-haiau-tvOS.debug.xcconfig */,
-				D2680D9780792273D2EE88B3 /* Pods-haiau-tvOS.release.xcconfig */,
-				9501821916B4172BDE55C241 /* Pods-haiau-tvOSTests.debug.xcconfig */,
-				DD133CD45C037C7D0A19DFC3 /* Pods-haiau-tvOSTests.release.xcconfig */,
+				BF130FCD8D0C8DE39E26B27E /* Pods-HaiAu.debug.xcconfig */,
+				DA56EAF2584F211D39E4AB74 /* Pods-HaiAu.release.xcconfig */,
+				E14D7890502E607D9756E242 /* Pods-HaiAu-HaiAuTests.debug.xcconfig */,
+				23EAED921185EDF5799B6BC0 /* Pods-HaiAu-HaiAuTests.release.xcconfig */,
+				FA8225D14E3BE6E7FBA6057D /* Pods-HaiAu-tvOS.debug.xcconfig */,
+				D2680D9780792273D2EE88B3 /* Pods-HaiAu-tvOS.release.xcconfig */,
+				9501821916B4172BDE55C241 /* Pods-HaiAu-tvOSTests.debug.xcconfig */,
+				DD133CD45C037C7D0A19DFC3 /* Pods-HaiAu-tvOSTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -213,9 +213,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* haiauTests */ = {
+		00E356ED1AD99517003FC87E /* HaiAuTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "haiauTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "HaiAuTests" */;
 			buildPhases = (
 				52747F02B3670698FADEBAF7 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -228,14 +228,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = haiauTests;
-			productName = haiauTests;
-			productReference = 00E356EE1AD99517003FC87E /* haiauTests.xctest */;
+			name = HaiAuTests;
+			productName = HaiAuTests;
+			productReference = 00E356EE1AD99517003FC87E /* HaiAuTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* haiau */ = {
+		13B07F861A680F5B00A75B9A /* HaiAu */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "haiau" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "HaiAu" */;
 			buildPhases = (
 				91D966FF1A3894A73FE91163 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -249,14 +249,14 @@
 			);
 			dependencies = (
 			);
-			name = haiau;
-			productName = haiau;
-			productReference = 13B07F961A680F5B00A75B9A /* haiau.app */;
+			name = HaiAu;
+			productName = HaiAu;
+			productReference = 13B07F961A680F5B00A75B9A /* HaiAu.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* haiau-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* HaiAu-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "haiau-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HaiAu-tvOS" */;
 			buildPhases = (
 				32530F1F3A8170D2E23F785D /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -269,14 +269,14 @@
 			);
 			dependencies = (
 			);
-			name = "haiau-tvOS";
-			productName = "haiau-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* haiau-tvOS.app */;
+			name = "HaiAu-tvOS";
+			productName = "HaiAu-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* HaiAu-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* haiau-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* HaiAu-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "haiau-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HaiAu-tvOSTests" */;
 			buildPhases = (
 				AEF24ECE5EA7CFC8AA71A20C /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -288,9 +288,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "haiau-tvOSTests";
-			productName = "haiau-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* haiau-tvOSTests.xctest */;
+			name = "HaiAu-tvOSTests";
+			productName = "HaiAu-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* HaiAu-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -319,7 +319,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "haiau" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "HaiAu" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -332,10 +332,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* haiau */,
-				00E356ED1AD99517003FC87E /* haiauTests */,
-				2D02E47A1E0B4A5D006451C7 /* haiau-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* haiau-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* HaiAu */,
+				00E356ED1AD99517003FC87E /* HaiAuTests */,
+				2D02E47A1E0B4A5D006451C7 /* HaiAu-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* HaiAu-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -419,7 +419,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-haiau-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-HaiAu-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -441,7 +441,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-haiau-haiauTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-HaiAu-HaiAuTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -454,7 +454,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-haiau/Pods-haiau-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-HaiAu/Pods-HaiAu-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -495,7 +495,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-haiau/Pods-haiau-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HaiAu/Pods-HaiAu-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		91D966FF1A3894A73FE91163 /* [CP] Check Pods Manifest.lock */ = {
@@ -513,7 +513,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-haiau-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-HaiAu-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -535,7 +535,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-haiau-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-HaiAu-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -548,7 +548,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-haiau-haiauTests/Pods-haiau-haiauTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-HaiAu-HaiAuTests/Pods-HaiAu-HaiAuTests-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -589,7 +589,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-haiau-haiauTests/Pods-haiau-haiauTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HaiAu-HaiAuTests/Pods-HaiAu-HaiAuTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -637,7 +637,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* haiauTests.m in Sources */,
+				00E356F31AD99517003FC87E /* HaiAuTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -663,7 +663,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* haiauTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* HaiAuTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -672,12 +672,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* haiau */;
+			target = 13B07F861A680F5B00A75B9A /* HaiAu */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* haiau-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* HaiAu-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -685,14 +685,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E14D7890502E607D9756E242 /* Pods-haiau-haiauTests.debug.xcconfig */;
+			baseConfigurationReference = E14D7890502E607D9756E242 /* Pods-HaiAu-HaiAuTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = haiauTests/Info.plist;
+				INFOPLIST_FILE = HaiAuTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -702,17 +702,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/haiau.app/haiau";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HaiAu.app/HaiAu";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 23EAED921185EDF5799B6BC0 /* Pods-haiau-haiauTests.release.xcconfig */;
+			baseConfigurationReference = 23EAED921185EDF5799B6BC0 /* Pods-HaiAu-HaiAuTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = haiauTests/Info.plist;
+				INFOPLIST_FILE = HaiAuTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -722,19 +722,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/haiau.app/haiau";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HaiAu.app/HaiAu";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BF130FCD8D0C8DE39E26B27E /* Pods-haiau.debug.xcconfig */;
+			baseConfigurationReference = BF130FCD8D0C8DE39E26B27E /* Pods-HaiAu.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
-				INFOPLIST_FILE = haiau/Info.plist;
+				INFOPLIST_FILE = HaiAu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -742,7 +742,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = haiau;
+				PRODUCT_NAME = HaiAu;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -751,12 +751,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA56EAF2584F211D39E4AB74 /* Pods-haiau.release.xcconfig */;
+			baseConfigurationReference = DA56EAF2584F211D39E4AB74 /* Pods-HaiAu.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = haiau/Info.plist;
+				INFOPLIST_FILE = HaiAu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -764,7 +764,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = haiau;
+				PRODUCT_NAME = HaiAu;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -772,7 +772,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FA8225D14E3BE6E7FBA6057D /* Pods-haiau-tvOS.debug.xcconfig */;
+			baseConfigurationReference = FA8225D14E3BE6E7FBA6057D /* Pods-HaiAu-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -783,14 +783,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "haiau-tvOS/Info.plist";
+				INFOPLIST_FILE = "HaiAu-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.haiau-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HaiAu-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -800,7 +800,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D2680D9780792273D2EE88B3 /* Pods-haiau-tvOS.release.xcconfig */;
+			baseConfigurationReference = D2680D9780792273D2EE88B3 /* Pods-HaiAu-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -811,14 +811,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "haiau-tvOS/Info.plist";
+				INFOPLIST_FILE = "HaiAu-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.haiau-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HaiAu-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -828,7 +828,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9501821916B4172BDE55C241 /* Pods-haiau-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 9501821916B4172BDE55C241 /* Pods-HaiAu-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -838,24 +838,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "haiau-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "HaiAu-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.haiau-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HaiAu-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/haiau-tvOS.app/haiau-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HaiAu-tvOS.app/HaiAu-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DD133CD45C037C7D0A19DFC3 /* Pods-haiau-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = DD133CD45C037C7D0A19DFC3 /* Pods-HaiAu-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -865,17 +865,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "haiau-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "HaiAu-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.haiau-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.HaiAu-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/haiau-tvOS.app/haiau-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HaiAu-tvOS.app/HaiAu-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -996,7 +996,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "haiauTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "HaiAuTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1005,7 +1005,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "haiau" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "HaiAu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1014,7 +1014,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "haiau-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HaiAu-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1023,7 +1023,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "haiau-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "HaiAu-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1032,7 +1032,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "haiau" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "HaiAu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
