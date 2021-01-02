@@ -1,6 +1,6 @@
 {
   "name": "HaiAu",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "private": true,
   "scripts": {
     "android": "react-native add-path-alias && react-native run-android",
