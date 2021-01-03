@@ -2,12 +2,14 @@
 This is project create template boilerplate for react-native
 # Table of contents
 * [Features](#features)
+* [Features Optional](#features-optional)  
 * [Folder Structure Conventions](#folder-structure-conventions)    
 * [Installation](#installation)
 * [Document](#document)
   - [Path alias](#path-alias)
   - [Commit lint](#commit-lint)
   - [Add custom fonts](#add-custom-fonts)
+  - [Add support multiple language](#add-support-multiple-language)
 * [Inspired by](#inspired-by)
 * [Contributing](#contributing)
 * [Author](#author)
@@ -30,6 +32,10 @@ This is project create template boilerplate for react-native
  - [Config variables for React Native apps](https://github.com/luggit/react-native-config)
  - [React native vector icons](https://github.com/oblador/react-native-vector-icons)
  - Support custom fonts
+
+## Features Optional
+ - [Support i18n](https://github.com/i18next/react-i18next)
+
 ## Folder Structure Conventions
     .
     ├── __tests__               # Folder test
@@ -110,6 +116,12 @@ module.exports = {
   ```
   npx react-native link
   ```
+
+### Add support multiple language
+```
+npx react-native add-i18n
+```
+if you want custom advanced i18n please reference the link [i18n](https://react.i18next.com/)
 
 ## Inspired by
 [Create template for react-native](https://github.com/Esemesek/react-native-new-template)

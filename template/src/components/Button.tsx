@@ -1,11 +1,12 @@
 import React from 'react';
 import {TouchableOpacity, Text, StyleSheet} from 'react-native';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
+
 const Button = () => {
   return (
     <TouchableOpacity>
       <MaterialIcons name={'10k'} size={30} color={'black'} />
-      <Text style={styles.text}>This is button</Text>
+      <Text style={styles.text}>Button</Text>
     </TouchableOpacity>
   );
 };

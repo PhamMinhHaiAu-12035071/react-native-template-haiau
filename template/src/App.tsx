@@ -1,3 +1,5 @@
+import loadI18N from 'i18n/config.ts';
+loadI18N();
 import React from 'react';
 import {RecoilRoot} from 'recoil';
 import ThemeLayout from './ThemeLayout';

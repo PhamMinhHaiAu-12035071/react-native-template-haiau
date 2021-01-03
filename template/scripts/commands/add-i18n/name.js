@@ -1,6 +1,6 @@
 const main = require('./func').main;
 module.exports = {
-  name: 'add-path-alias',
-  description: 'Auto-generate path alias for project',
+  name: 'add-i18n',
+  description: 'Add support multiple language',
   func: () => main(),
 };
