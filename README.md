@@ -118,6 +118,7 @@ module.exports = {
   ```
 
 ### Add support multiple language
+- Support detect language device
 ```
 npx react-native add-i18n
 ```
